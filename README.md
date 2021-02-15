@@ -1,5 +1,5 @@
-# OSTIF-Reviews
-Security Work and Manual Reviews facilitated by Open Source Technology Improvement Fund, aka OSTIF. 
+# OSTIF-Security-Reviews
+## Security Work and Manual Reviews facilitated by Open Source Technology Improvement Fund, aka OSTIF. 
 
 Short Description of Organization: 
 
