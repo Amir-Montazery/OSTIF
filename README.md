@@ -27,5 +27,6 @@ OSTIF's work on OpenSSL led to a total of 16 recommendations and changes in Open
 Full report: https://ostif.org/the-ostif-and-quarkslab-audit-of-openssl-is-complete/
 
 # [OSTIF Website](https://ostif.org)
+# [Managed Audit Program Initiative](Managed-Audit-Program-Inititative.md)
 
 # An overview of OSTIF's Security Reviews can be found [here](Security-Reviews.md)
