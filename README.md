@@ -7,6 +7,8 @@ The Open Source Technology Improvement Fund is a corporate non-profit dedicated 
 
 # Preview of results:
 
+#### The result of OSTIF's work is the fixing of vulnerabilities, patching of bugs and more importantly classes of bugs, and improvement in security posture. 
+
 Linux Kernel
 
 OSTIF facilitated a coalition of experts to review the Linux Kernel’s practices and policies around how security vulnerabilities are reported to the kernel team, how those reports are processed and addressed, and how those vulnerabilities are disclosed to the public.
