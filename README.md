@@ -1,9 +1,9 @@
-# OSTIF-Security-Reviews
-## Security Work and Manual Reviews facilitated by Open Source Technology Improvement Fund, aka OSTIF. 
+# What is OSTIF?
+The Open Source Technology Improvement Fund is a corporate non-profit dedicated to securing critical open source apps. Securing software isn’t easy, and OSTIF knows what it takes to succeed. By facilitating security audits and reviews, OSTIF makes it easy for projects to significantly improve security.
 
-# Short Description of Organization: 
 
-The Open Source Technology Improvement Fund is a corporate non-profit dedicated to securing open source apps that we all depend on. Securing software isn’t easy, and we know what it takes to succeed. By facilitating security audits and reviews, OSTIF makes it easy for projects to significantly improve security.
+# How does OSTIF add value?
+OSTIF adds value to the open-source ecosystem by making it easy for critical projects and the organizations and communities that depend on these projects to get expert security review. The process focuses on comprehensively improving security posture through closing classes of bugs, fixing vulnerabilities, and improving tooling. To date, OSTIF has facilitated 20+ engagements, resulting in thousands of hours of review, hundreds of bug fixes (including 26 critical/high risk vulnerabilites), and improved security in the open-source ecosystem. 
 
 # Preview of results:
 
@@ -25,4 +25,4 @@ OSTIF's work on OpenSSL led to a total of 16 recommendations and changes in Open
 Full report: https://ostif.org/the-ostif-and-quarkslab-audit-of-openssl-is-complete/
 
 
-# All of OSTIF's research is available for free at https://ostif.org/ostifs-accomplishments-and-goals/
+# An overview of OSTIF's Security Reviews can be found [here](Security-Reviews.md)
