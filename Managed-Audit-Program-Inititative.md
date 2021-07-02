@@ -151,7 +151,8 @@ Since 2015, the OSTIF team has been honing processes to secure projects while ca
 **Projects**
 
 For the purposes of this section, a “project” is defined as a complete security review of an open source project: including scoping, RFP review, audits, remediation/patching and one or more published papers. Some projects are broken down into multiple sub-projects and will have multiple research papers published for a single “project.” (Example: systemd is broken down into seven sub-projects and there would be a total of seven papers for the systemd “project.”)
-Program Needs
+
+**Program Needs**
 
 OSTIF requires a total of **$2.3 million per year** to operate efficiently. The organization can operate on a lower budget than this, but will exhaust funds before the end of the fiscal year, and revert efforts to fundraising activities until additional funding can be raised to continue. At approximately $2.3 million, OSTIF can work exclusively on projects and forward-looking strategy without spending time and resources on fundraising activities.
 
