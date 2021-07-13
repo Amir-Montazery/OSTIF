@@ -29,4 +29,4 @@ Full report: https://ostif.org/the-ostif-and-quarkslab-audit-of-openssl-is-compl
 # [OSTIF Website](https://ostif.org)
 # [Managed Audit Program Initiative](Managed-Audit-Program-Inititative.md)
 
-# An overview of OSTIF's Security Reviews can be found [here](Security-Reviews.md)
+# An overview of OSTIF's Security Reviews can be found [here](Completed-Projects.md)
