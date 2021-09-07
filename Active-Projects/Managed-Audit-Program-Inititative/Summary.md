@@ -3,8 +3,8 @@
 The Open Source Technology Improvement Fund (OSTIF) is striving to create a Managed Audit Program (MAP) to secure critical projects in the open source ecosystem. OSTIF draws on 10+ years of experience managing audits for open source projects, an international network of trust and rapport, and comprehensive support that results in improved security tooling, closed classes of bugs, and published research. The Program serves the following objectives:
 	
   1.	Creating and executing on a solution focused on going to the source of the problem and incrementally solving it.
-	2.	Demonstrating strong collaboration and action taken toward fulfilling the mission of securing the open source ecosystem.
-	3.	Recognizing the organizations funding this work to increase awareness and investment in this space.
+  2.	Demonstrating strong collaboration and action taken toward fulfilling the mission of securing the open source ecosystem.
+  3.	Recognizing the organizations funding this work to increase awareness and investment in this space.
   
 ### Current Status ###
 
