@@ -1,4 +1,4 @@
-# Securing Critical Projects Managed Audit Program Initiative
+# Securing Critical Projects Managed Audit Program Initiative - Proposal
 
 ## Executive Summary
 
