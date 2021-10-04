@@ -1,0 +1,1 @@
+A list of the initial 25 critical open source projects that OSTIF is creating the Managed Audit Program (MAP) for can be found at the following link: https://docs.google.com/spreadsheets/d/1oytKuD7UCX6nDXWQMr6ZgYYgap_SH_JVBof5gNrgSxo/edit#gid=0
