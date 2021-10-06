@@ -28,7 +28,7 @@ Full report: https://ostif.org/the-ostif-and-quarkslab-audit-of-openssl-is-compl
 
 # Key Metrics
 
-**20+** Security Engagements and Counting
+***20+*** Security Engagements and Counting
 
 **3,500+** Hours of Coordinated Security Review
 
