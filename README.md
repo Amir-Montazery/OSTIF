@@ -30,7 +30,7 @@ Full report: https://ostif.org/the-ostif-and-quarkslab-audit-of-openssl-is-compl
 
 ***20+*** Security Engagements and Counting
 
-**3,500+** Hours of Coordinated Security Review
+****3,500+**** Hours of Coordinated Security Review
 
 **100+** Security Vulnerabilities Found and Patched
 
