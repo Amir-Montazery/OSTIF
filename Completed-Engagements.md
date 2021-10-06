@@ -1,5 +1,3 @@
-### The following is a list of engagements coordinated by OSTIF. PDF versions of the full report(s) can be found at the bottom of the page linked under deliverable.
-
 # Key Metrics
 
 ***20+*** Security Engagements and Counting
@@ -9,6 +7,7 @@
 **100+** Security Vulnerabilities Found and Patched
 
 **26** Severe Bugs Found and Patched (bugs that would have a CVSS score of “high” or “critical” rating)
+### The following is a list of engagements coordinated by OSTIF. PDF versions of the full report(s) can be found at the bottom of the page linked under deliverable.
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
