@@ -12,7 +12,7 @@ This document makes the case that these projects are highly relevant, that the w
 
 ## Objectives
 
-1) Select Relevant Projects for independent review
+1) Select Relevant Projects for Independent Review
 * Data from OpenSSFs Criticality Score Project
 * Data from the Linux Foundation + Harvard LISH Project - Census II
 * Data from the recent Washington University Underproduction paper.
