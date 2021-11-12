@@ -11,7 +11,7 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
-|     flux2    |   September 2021   |         Security Review        |                          [Our Audit of Flux2 is Complete](https://ostif.org/our-audit-of-flux2-is-complete/)                          |   |
+|     Flux    |   September 2021   |         Security Review        |                          [Our Audit of Flux2 is Complete](https://ostif.org/our-audit-of-flux2-is-complete/)                          |   |
 |     Linux Kernel    |   April 2021   |         Policy Review         |                          [A Review of the Linux Kernel’s Release Signing and Key Management Policies](https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/)                          |   |
 |     Linux Kernel    |  January 2021  |         Policy Review         |                            [A Review of the Linux Kernel’s Vulnerability Reporting and Remediation](https://ostif.org/a-review-of-the-linux-kernels-vulnerability-reporting-and-remediation/)                            |   |
 |     COVID Shield    |  October 2020  | Security Review, Threat Model | [The Linux Foundation Public Health Initiative Sponsored the Audit of COVID Exposure Notification Apps.](https://ostif.org/the-linux-foundation-public-health-initiative-sponsored-the-audit-of-covid-exposure-notification-apps-here-are-the-results/) |   |
