@@ -2,14 +2,17 @@ Overview: Open Source Technology Improvement Fund, with support from Google, is 
 
 Three main work packages being executed:
 
-1- Git source code review and threat modeling: This will be done by the team at x41 d-sec with support from Gitlab reps.
-2- Supply chain security / CI infrastructure review with Chainguard and support from Gitlab.
-3- A new setup of CodeQL for git with Xavier and his team from Github.
+Git source code review and threat modeling: This will be done by the team at x41 d-sec with support from Gitlab reps.
 
 
-Our next steps are to have intro meetings where all interested parties align availability and responsibilities and get started.
+Supply chain security / CI infrastructure review with Chainguard and support from Gitlab.
 
-Connect with git contributor community for advice and guidance:
+
+A new setup of CodeQL for git with Xavier and his team from Github.
+
+
+
+## Connect with git contributor community for advice and guidance:
 
 Result from 8/1 Git Standup: 
 
