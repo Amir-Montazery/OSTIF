@@ -4,13 +4,9 @@ Three main work packages being executed:
 
 Git source code review and threat modeling: This will be done by the team at x41 d-sec with support from Gitlab reps.
 
-
 Supply chain security / CI infrastructure review with Chainguard and support from Gitlab.
 
-
-A new setup of CodeQL for git with Xavier and his team from Github.
-
-
+Static source code vulnerability analysis using [CodeQL](https://github.codeql.com) (facilitated by @xcorail & @turbo)
 
 ## Connect with git contributor community for advice and guidance:
 
