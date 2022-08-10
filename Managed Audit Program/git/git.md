@@ -17,6 +17,8 @@ A number of people participated in the 8/1 Git Standup and the git contributor c
 
 Next Steps: 
 
-[] Create Communication Matrix
-[] Run communication matrix by contributor community 
-[] Establish direct channels with contributors most closely related to respective work package
+- Create Communication Matrix
+
+- Run communication matrix by contributor community 
+
+- Establish direct channels with contributors most closely related to respective work package
