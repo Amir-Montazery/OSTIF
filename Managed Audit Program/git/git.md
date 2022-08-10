@@ -12,4 +12,10 @@ Static source code vulnerability analysis using [CodeQL](https://github.codeql.c
 
 Result from 8/1 Git Standup: 
 
+A number of people participated in the 8/1 Git Standup and the git contributor community was extremely helpful and welcoming. An overview of that conversation can be found here: https://colabti.org/irclogger/irclogger_log/git-devel?date=2022-08-01
 
+
+Next Steps: 
+
+[] Create Communication Matrix
+[] Run communication matrix by contributor community 
