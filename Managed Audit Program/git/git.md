@@ -2,11 +2,11 @@ Overview: Open Source Technology Improvement Fund, with support from Google, is 
 
 Three main work packages being executed:
 
-Git source code review and threat modeling: This will be done by the team at x41 d-sec with support from Gitlab reps.
+#1 - Git source code review and threat modeling: This will be done by the team at x41 d-sec with support from Gitlab reps.
 
-Supply chain security / CI infrastructure review with Chainguard and support from Gitlab.
+#2 - Supply chain security / CI infrastructure review with Chainguard and support from Gitlab.
 
-Static source code vulnerability analysis using [CodeQL](https://github.codeql.com) (facilitated by @xcorail & @turbo)
+#3 - Static source code vulnerability analysis using [CodeQL](https://github.codeql.com) (facilitated by @xcorail & @turbo)
 
 ## Connect with git contributor community for advice and guidance:
 
@@ -19,3 +19,4 @@ Next Steps:
 
 [] Create Communication Matrix
 [] Run communication matrix by contributor community 
+[] Establish direct channels with contributors most closely related to respective work package
