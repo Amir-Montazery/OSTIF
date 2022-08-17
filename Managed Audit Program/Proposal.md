@@ -47,7 +47,9 @@ This document makes the case that these projects are highly relevant, that the w
 7) Publish All Results
 * Results published on OpenSSF Security Reviews and OSTIF website in full, along with a synopsis
 * All severe bugs are reported as CVEs to the relevant CNAs
-The Project Selection Process
+
+
+## The Project Selection Process
 
 OSTIF has been working with Industry Partners, the Greater Open-Source Community, and the Open Source Security Foundation’s (OpenSSF) Securing Critical Projects working group to identify critical infrastructure that is in need of security review, discuss methodology to improve the existing code of these projects, and improve the long-term security posture of the teams maintaining the code. 
 
