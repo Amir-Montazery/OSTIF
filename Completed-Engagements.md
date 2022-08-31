@@ -1,12 +1,12 @@
 # Key Metrics
 
-***20+*** Security Engagements and Counting
+***25+*** Security Engagements and Counting
 
-****3,500+**** Hours of Coordinated Security Review
+****5,000+**** Hours of Coordinated Security Review
 
-**100+** Security Vulnerabilities Found and Patched
+**200+** Security Vulnerabilities Found and Patched
 
-**27** Severe Bugs Found and Patched (bugs that would have a CVSS score of “high” or “critical” rating)
+**50** Severe Bugs Found and Patched (bugs that would have a CVSS score of “high” or “critical” rating)
 ### The following is a list of engagements coordinated by OSTIF. PDF versions of the full report(s) can be found at the bottom of the page linked under deliverable.
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
