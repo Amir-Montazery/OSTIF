@@ -28,13 +28,13 @@ Full report: https://ostif.org/the-ostif-and-quarkslab-audit-of-openssl-is-compl
 
 # Key Metrics
 
-***20+*** Security Engagements and Counting
+***25+*** Security Engagements and Counting
 
-****3,500+**** Hours of Coordinated Security Review
+****5,000+**** Hours of Coordinated Security Review
 
-**100+** Security Vulnerabilities Found and Patched
+**200+** Security Vulnerabilities Found and Patched
 
-**26** Severe Bugs Found and Patched (bugs that would have a CVSS score of “high” or “critical” rating)
+**50** Severe Bugs Found and Patched (bugs that would have a CVSS score of “high” or “critical” rating)
 
 
 # [OSTIF Website](https://ostif.org)
