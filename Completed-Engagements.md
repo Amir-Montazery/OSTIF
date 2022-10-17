@@ -1,16 +1,25 @@
 # Key Metrics
 
+**50+** Severe Bugs Found and Patched (bugs that would have a CVSS score of “high” or “critical” rating)
+
 ***25+*** Security Engagements and Counting
 
 ****5,000+**** Hours of Coordinated Security Review
 
-**200+** Security Vulnerabilities Found and Patched
+**300+** Security Vulnerabilities Found and Patched
 
-**50** Severe Bugs Found and Patched (bugs that would have a CVSS score of “high” or “critical” rating)
 ### The following is a list of engagements coordinated by OSTIF. PDF versions of the full report(s) can be found at the bottom of the page linked under deliverable.
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     LFX Platform    |   TBD   |         Security Review, Threat Model        |                TBD                          | 
+|     Backstage    |   April - August 2022   |         Security Review, Threat Model        |                [The OSTIF Audit of Backstage with X41 D-Sec is Complete!](https://ostif.org/the-ostif-audit-of-backstage-with-x41-d-sec-is-complete/)                          | 
+|     CNCF Impact Report    |   November 2021 - July 2022   |         Security Reviews & Associated Work        |               [The Cloud Native Computing Foundation and OSTIF Impact Report.](https://ostif.org/the-cloud-native-computing-foundation-and-ostif-impact-report/)                          | 
+|     slf4j    |   April 2022   |         Security Review, Threat Model, Supply Chain Security Review        |                [Our Audit of SLF4J is Complete!](https://ostif.org/our-audit-of-slf4j-is-complete/)                          | 
+|     sigstore    |   May 2022   |         Security Review, Threat Model        |                [Our Audit of sigstore is complete. High risk vulnerability found and fixed.](https://ostif.org/our-audit-of-sigstore-is-complete-high-risk-vulnerability-found-and-fixed/)                          | 
+|     Argo    |   April 2022   |         Security Review, Threat Model        |                [Our Audit of Argo is Complete. Critical and High Severity Issues Found and Fixed](https://ostif.org/our-audit-of-argo-is-complete-critical-and-high-severity-security-issues-found-and-fixed/)                          |   |
+|     KubeEdge    |   July 2022   |         Security Review, Threat Model, Supply Chain Security Assessment        |                [Our Audit of KubeEdge is Complete. Multiple Security Issues Found and Fixed](https://ostif.org/our-audit-of-kubeedge-is-complete-multiple-security-issues-found-and-fixed/)                          | 
+|     CRI-O    |   June 2022   |         Security Review, Threat Model, Supply Chain Security Assessment        |                          [Our Audit of CRI-O is Complete. High Severity Issues Found and Fixed](https://ostif.org/our-audit-of-cri-o-is-complete-high-severity-issues-found-and-fixed/)                          |   |
 |     Flux    |   September 2021   |         Security Review        |                          [Our Audit of Flux2 is Complete](https://ostif.org/our-audit-of-flux2-is-complete/)                          |   |
 |     Linux Kernel    |   April 2021   |         Policy Review         |                          [A Review of the Linux Kernel’s Release Signing and Key Management Policies](https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/)                          |   |
 |     Linux Kernel    |  January 2021  |         Policy Review         |                            [A Review of the Linux Kernel’s Vulnerability Reporting and Remediation](https://ostif.org/a-review-of-the-linux-kernels-vulnerability-reporting-and-remediation/)                            |   |
