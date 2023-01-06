@@ -1,18 +1,21 @@
 # Key Metrics
 
-**50+** Severe Bugs Found and Patched (bugs that would have a CVSS score of “high” or “critical” rating)
+**75+** Severe Bugs Found and Patched (bugs that would have a CVSS score of “high” or “critical” rating)
 
-***25+*** Security Engagements and Counting
+***50+*** Security Engagements and Counting
 
-****5,000+**** Hours of Coordinated Security Review
+****10,000+**** Hours of Coordinated Security Review
 
-**300+** Security Vulnerabilities Found and Patched
+**400+** Security Vulnerabilities Found and Patched
 
 ### The following is a list of engagements coordinated by OSTIF. PDF versions of the full report(s) can be found at the bottom of the page linked under deliverable.
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
-|     LFX Platform    |   TBD   |         Security Review, Threat Model        |                TBD                          | 
+|     cURL    |   October 2022   |         Security Review, Threat Model       |[Results of curl Security Audit.](https://ostif.org/the-ostif-audit-of-curl-with-trail-of-bits-is-complete/)                         |
+|     CloudEvents    |   September 2022   |         Security Review       |                [Results of the CloudEvents Security Assessment.](https://ostif.org/results-of-the-cloudevents-security-assessment/)                         | 
+|     Jackson-Core and Jackson-Databind    |   August 2022   |         Security Review, Threat Model, Fuzzing Suite Update       |                [Our Audits of Jackson-Core and Jackson-Databind are Complete.](https://ostif.org/our-audits-of-jackson-core-and-jackson-databind-are-complete/)                         | 
+|     Python-TUF    |   September 2022   |         Security Review       |                [Our Audit of Python-TUF is Complete. Multiple Issues Found and Fixed.](https://ostif.org/our-audit-of-python-tuf-is-complete-multiple-issues-found-and-fixed/)                         | 
 |     Backstage    |   April - August 2022   |         Security Review, Threat Model        |                [The OSTIF Audit of Backstage with X41 D-Sec is Complete!](https://ostif.org/the-ostif-audit-of-backstage-with-x41-d-sec-is-complete/)                          | 
 |     CNCF Impact Report    |   November 2021 - July 2022   |         Security Reviews & Associated Work        |               [The Cloud Native Computing Foundation and OSTIF Impact Report.](https://ostif.org/the-cloud-native-computing-foundation-and-ostif-impact-report/)                          | 
 |     slf4j    |   April 2022   |         Security Review, Threat Model, Supply Chain Security Review        |                [Our Audit of SLF4J is Complete!](https://ostif.org/our-audit-of-slf4j-is-complete/)                          | 
