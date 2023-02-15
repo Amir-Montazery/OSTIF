@@ -28,16 +28,17 @@ Full report: https://ostif.org/the-ostif-and-quarkslab-audit-of-openssl-is-compl
 
 # Key Metrics
 
+**50+** Severe Bugs Found and Patched (bugs that would have a CVSS score of “high” or “critical” rating)
+
 ***25+*** Security Engagements and Counting
 
 ****5,000+**** Hours of Coordinated Security Review
 
-**200+** Security Vulnerabilities Found and Patched
-
-**50** Severe Bugs Found and Patched (bugs that would have a CVSS score of “high” or “critical” rating)
+**300+** Security Vulnerabilities Found and Patched
 
 
 # [OSTIF Website](https://ostif.org)
 # [Managed Audit Program Initiative Proposal](https://github.com/Amir-Montazery/OSTIF/blob/main/Managed%20Audit%20Program/Proposal.md)
 
 # An overview of OSTIF's Security Reviews can be found [here](Completed-Engagements.md)
+# Open Source Project In Need Of Security Help? Check out [OSS Resources](https://github.com/ostif-org/OSTIF/tree/main/OSSResources)
